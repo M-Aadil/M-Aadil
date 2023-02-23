@@ -1,6 +1,6 @@
 Hi there 👋, I'm Aadil,
 
-A Full Stack Web developer🎯 and Leetcoder🎨 from India. 
+A Full Stack Web developer🎯 and Leetcoder💻 from India. 
 
 # 💫 About Me:
 👨‍💻 Full Stack Developer & Leetcoder.<br>💼 Currently working on open-source projects.<br>🏫 Pre-final year student at JMI.<br>📚 What do I believe? Garbage in, Garbage out.<br> <br>
